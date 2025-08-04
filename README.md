@@ -37,4 +37,4 @@ A Flutter chatbot application with voice and text interaction capabilities.
 - Audio playback capabilities
 
 ## Screenshot
-![Showcase1](https://github.com/user-attachments/assets/cfad5391-b43e-4826-8ad3-3a93d2d9da52)
+<img height="800" width="400" src=https://github.com/user-attachments/assets/cfad5391-b43e-4826-8ad3-3a93d2d9da52 />
