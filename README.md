@@ -4,8 +4,8 @@ A Flutter chatbot application with voice and text interaction capabilities.
 
 ## Features
 
-- 💬 Text-based chat interface
-- 🎤 Speech-to-text input
+- 💬 Voice based chat interface
+- 🎤 Speech to text input
 - 🔊 Audio response playback
 
 ## Getting Started
@@ -37,3 +37,4 @@ A Flutter chatbot application with voice and text interaction capabilities.
 - Audio playback capabilities
 
 ## Screenshot
+![Showcase1](https://github.com/user-attachments/assets/cfad5391-b43e-4826-8ad3-3a93d2d9da52)
